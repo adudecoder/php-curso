@@ -1,0 +1,2 @@
+# Padrão DAO (Data Access Object) #
+O padrão de projeto [DAO](https://www.computersciencemaster.com.br/como-funciona-uma-classe-dao-em-php/) surgiu com a necessidade de separarmos a lógica de negócios da lógica de persistência de dados. Este padrão permite que possamos mudar a forma de persistência sem que isso influencie em nada na lógica de negócio, além de tornar nossas classes mais legíveis e são bem parecidos com arquitetura [MVC](https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc) Quando você isola a camada de apresentação, da camada de negocios e da camada de dados
