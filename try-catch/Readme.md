@@ -1,0 +1,3 @@
+# Try Catch #
+
+As funções (Try Catch)[https://www.php.net/manual/pt_BR/language.exceptions.php] são funções nativas do PHP. O PHP (Try Catch)[https://www.php.net/manual/pt_BR/language.exceptions.php] são blocos de comandos que tem como principal objetivo tratar exceções que o programador não tem como prever que irão acontecer ou controlar. Como, por exemplo, erros de execução, ou ainda erros como o usuário perder a conexão com a internet, entre outros. Dessa forma, esses erros e falhas são tratados como exceções, de forma que é possível então compreender ou até manipular o comportamento da aplicação caso aconteça algo inesperado.
