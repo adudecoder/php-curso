@@ -1,0 +1,20 @@
+{
+    "name": "victo/composer",
+    "description": "Aula de PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Victo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Martins",
+            "email": "vitorchiesa74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}

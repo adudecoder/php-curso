@@ -1,0 +1,3 @@
+# Composer PHP #
+
+[Composer](https://felipeelia.com.br/o-que-e-o-composer-do-php/) é o gerenciador de dependências do PHP. Toda vez que o seu site ou aplicação precisar de um código ou biblioteca de terceiros, provavelmente é uma boa ideia inclui-la através do Composer. Se o seu código precisa de uma biblioteca, e esta biblioteca precisa de uma terceira, o próprio Composer gerenciará isso para você.
