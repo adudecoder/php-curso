@@ -1,9 +1,9 @@
-# (Arquivo CSV)[https://medium.com/mestredev/leitura-de-arquivos-csv-com-php-33819d78d03b] # - Arquivo formatado
+# [Arquivo CSV](https://medium.com/mestredev/leitura-de-arquivos-csv-com-php-33819d78d03b) # - Arquivo formatado
 O formato CSV é um tipo de arquivo de texto fundamental para transferência de informações entre aplicativos diferentes, como uma plataforma CRM e o Microsoft Excel. Para fazer esse tipo de troca de informações com sucesso, você precisa saber como importar e exportar esses arquivos. Tem dúvidas de como fazer isso? Então continue lendo este post!
 
 <---------------------------------------------------------------->
 
-# (fopen)[https://www.php.net/manual/pt_BR/function.fopen.php] #
+# [fopen](https://www.php.net/manual/pt_BR/function.fopen.php) #
 
 (PHP 4, PHP 5, PHP 7, PHP 8)
 
