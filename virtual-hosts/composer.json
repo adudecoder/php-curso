@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "~2.0",
+        "slim/psr7": "^1.5",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0",
+        "laminas/laminas-diactoros": "^2.9"
+    }
+}
