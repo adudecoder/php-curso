@@ -15,7 +15,7 @@
     // Pega um ARRAY e envie como se fosse uma QUERY só
     curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array(
 
-        "secret"    =>  "6LfjszgfAAAAAKOqhXqBDViGO-uKFgTlCTMiucKs",
+        "secret"    =>  "",
         "response"  =>  $_POST["g-recaptcha-response"],
         "remoteip"  =>  $_SERVER["REMOTE_ADDR"]
 
